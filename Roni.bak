@@ -559,7 +559,7 @@
     (symbol "CP400_4164_0_1"
       (rectangle (start -11.2776 13.0556) (end 11.938 -38.4048)
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type background))
+        (fill (type none))
       )
       (pin input line (at -13.8684 3.7084 0) (length 2.54)
         (name "NC" (effects (font (size 0.7 0.7))))
