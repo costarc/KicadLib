@@ -1489,7 +1489,7 @@
           (xy -12.954 -40.894)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -1499,7 +1499,7 @@
           (xy -12.954 -28.702)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -1509,7 +1509,7 @@
           (xy -12.954 -17.526)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -1519,7 +1519,7 @@
           (xy -2.1766 -46.9244)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -1529,7 +1529,7 @@
           (xy -2.1766 -34.4784)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (polyline
         (pts
@@ -1539,7 +1539,7 @@
           (xy -2.1766 -22.7944)
         )
         (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
+        (fill (type background))
       )
       (pin power_in line (at -9.2715 -7.6994 270) (length 2.54)
         (name "1" (effects (font (size 1.27 1.27))))
@@ -2261,6 +2261,10 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "CoCo_Transformer_0_1"
+      (arc (start -3.4701 -0.0056) (mid -4.1912 -0.6417) (end -3.4569 -1.2624)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
       (arc (start -3.4703 1.264) (mid -4.1908 0.6284) (end -3.4571 0.0072)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
@@ -2290,10 +2294,6 @@
         (fill (type none))
       )
       (arc (start -3.47 -1.276) (mid -4.1908 -1.9116) (end -3.4568 -2.5328)
-        (stroke (width 0) (type default) (color 0 0 0 0))
-        (fill (type none))
-      )
-      (arc (start -3.4701 -0.0056) (mid -4.1912 -0.6417) (end -3.4569 -1.2624)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type none))
       )
