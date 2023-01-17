@@ -64,7 +64,7 @@
     (solder_mask_margin 0.0762) (tstamp 7d153337-503d-4769-8fd4-a0700cf98cef))
   (pad "8" smd rect (at 10.16 -5.207) (size 1.27 9.525) (layers "B.Cu" "B.Mask")
     (solder_mask_margin 0.0762) (tstamp 4b4744a6-e2e0-49d0-a883-c8cafb6f0a22))
-  (pad "9" smd rect (at 12.7 -6.35) (size 1.27 6.985) (layers "F.Cu" "F.Mask")
+  (pad "9" smd rect (at 12.687088 -5.773481) (size 1.244176 8.338103) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp a46097a6-c060-4239-8d6a-be58aa18b435))
   (pad "10" smd rect (at 12.7 -5.207) (size 1.27 9.525) (layers "B.Cu" "B.Mask")
     (solder_mask_margin 0.0762) (tstamp a1f84ee9-ba81-4ab6-af69-66d0e3db1f03))
