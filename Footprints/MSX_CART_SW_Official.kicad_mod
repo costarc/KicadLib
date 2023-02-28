@@ -22,7 +22,7 @@
   (fp_line (start -48.9 13.4) (end -48.9 -28.6) (layer "Edge.Cuts") (width 0.12) (tstamp ab4d8626-390f-442b-9a4b-24e101846f26))
   (fp_line (start -48.9 13.4) (end -38.66 13.4) (layer "Edge.Cuts") (width 0.12) (tstamp b1a4dfac-f752-42d4-92eb-ffc0b123e5cf))
   (fp_line (start 39.03 24.388435) (end 39.03 35.390806) (layer "Edge.Cuts") (width 0.12) (tstamp beb959c7-7180-429a-a010-dff4bd278f8f))
-  (fp_line (start 39.04 24.388435) (end 50.9 24.388435) (layer "Edge.Cuts") (width 0.12) (tstamp ecb36e02-814c-4344-95df-5182de58da01))
+  (fp_line (start 39.03 24.388435) (end 50.9 24.388435) (layer "Edge.Cuts") (width 0.12) (tstamp ecb36e02-814c-4344-95df-5182de58da01))
   (fp_line (start 50.9 -28.6) (end -48.9 -28.6) (layer "Edge.Cuts") (width 0.12) (tstamp f5e7b732-e38c-4e8d-bfd3-087b11503164))
   (fp_circle (center -21.66 13.4) (end -19.16 13.4) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp 5b817842-6c5e-4588-ae6e-c57f5faec5c2))
   (fp_circle (center 35.34 19.4) (end 37.84 19.4) (layer "Edge.Cuts") (width 0.12) (fill none) (tstamp fd87aa94-b899-4e0f-b6c8-ea189071686e))
