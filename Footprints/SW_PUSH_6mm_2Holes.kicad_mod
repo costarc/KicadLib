@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SW_PUSH_6mm_2Holes"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -277,7 +277,7 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at 0 2 90)
+		(at 0.5 2 90)
 		(size 2 2)
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
@@ -285,7 +285,7 @@
 		(uuid "dc834195-01dc-42ec-83f9-3044efe2074a")
 	)
 	(pad "2" thru_hole circle
-		(at 6.5 2 90)
+		(at 6 2 90)
 		(size 2 2)
 		(drill 1.1)
 		(layers "*.Cu" "*.Mask")
