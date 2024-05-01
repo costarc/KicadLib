@@ -1,0 +1,85 @@
+(footprint "MountingHole_8.4mm_M8_No_Silk"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "Mounting Hole 8.4mm, no annular, M8")
+	(tags "mounting hole 8.4mm no annular m8")
+	(property "Reference" "REF**"
+		(at 0 -5.5 0)
+		(layer "F.SilkS")
+		(uuid "32fbb37a-7c9c-4309-bda3-1286be42cd00")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "MountingHole_8.4mm_M8_No_Silk"
+		(at 0 9.4 0)
+		(layer "F.Fab")
+		(uuid "4c7aa143-70cb-405c-9c5c-b2badb5a1074")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "af8f708b-4d8c-4827-8658-db4690fc4ab3")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61e4589c-15af-4fc4-ade9-f6c907e4908e")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51ff4eeb-d2b8-4f46-8b4a-201a77d9cd26")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "f9af9f86-0f99-41a1-8da1-2c70df7a09bf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 8.4 8.4)
+		(drill 8.4)
+		(layers "*.Cu" "*.Mask")
+		(uuid "396dd376-1277-4f67-92c6-2ebdba894a6f")
+	)
+)
